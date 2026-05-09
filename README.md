@@ -1,6 +1,6 @@
 # Hi 👋, I'm  Krish kachhadiya
 
-**BCA Student at Marvadi University, Rajkot | Java & Android Developer***
+**BCA Student at Marvadi University, Rajkot | Java & Android Developer | Full Stack Web Developer ***
 
 ---
 
