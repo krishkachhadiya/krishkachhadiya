@@ -45,5 +45,6 @@
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=krishkachhadiya&show_icons=true&theme=radical&cache_seconds=0)
-
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=krishkachhadiya&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=krishkachhadiya&theme=dracula)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=krishkachhadiya&layout=compact&theme=dracula)
